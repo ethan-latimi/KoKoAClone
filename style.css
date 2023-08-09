@@ -4,10 +4,10 @@
 @import "css/chat.css";
 @import "css/setting.css";
 
-@media all and (max-width: 768px) {
-}
-
-@media all and (min-width: 768px) {
+@media all and (min-width: 560px) {
+  body{
+    visibility: hidden;
+  }
 }
 
 body {
