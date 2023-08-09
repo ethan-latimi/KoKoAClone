@@ -1,6 +1,7 @@
 @import "css/reset.css";
 @import "css/aside.css";
 @import "css/main.css";
+@import "css/chat.css";
 @media all and (max-width: 768px) {
 }
 
@@ -8,7 +9,6 @@
 }
 
 body {
-  padding: 10px;
   height: 100vh;
   display: flex;
   justify-content: center;

@@ -6,6 +6,7 @@ aside {
   justify-content: space-between;
   align-items: center;
   border-right: 1px solid black;
+  background-color: rgb(228, 228, 228);
 }
 /* aside font size */
 aside > div i {
@@ -15,7 +16,7 @@ aside > div i {
 }
 
 aside > div:nth-child(1) {
-  margin-top: 1em;
+  margin-top: 2em;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
