@@ -2,6 +2,8 @@
 @import "css/aside.css";
 @import "css/main.css";
 @import "css/chat.css";
+@import "css/setting.css";
+
 @media all and (max-width: 768px) {
 }
 

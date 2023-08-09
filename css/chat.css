@@ -1,5 +1,14 @@
+#chat_nav{
+    position: fixed;
+    background-color: white;
+}
+
 #chat {
     overflow: scroll;
+}
+
+#chat_section {
+    margin-top: 50px;
 }
 
 .chat_room {
